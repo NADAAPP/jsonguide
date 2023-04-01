@@ -1,51 +1,45 @@
 {
-  "surahs": [
-    {
-      "number": 1,
-      "name": "Al-Fatihah",
-      "verses": [
-        {
-          "text": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
-          "translation": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
-        },
-        {
-          "text": "[All] praise is [due] to Allah, Lord of the worlds -",
-          "translation": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
-        },
-        {
-          "text": "The Entirely Merciful, the Especially Merciful,",
-          "translation": "الرَّحْمَٰنِ الرَّحِيمِ"
-        },
-        {
-          "text": "Sovereign of the Day of Recompense.",
-          "translation": "مَالِكِ يَوْمِ الدِّينِ"
-        },
-        {
-          "text": "It is You we worship and You we ask for help.",
-          "translation": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"
-        },
-        {
-          "text": "Guide us to the straight path -",
-          "translation": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ"
-        },
-        {
-          "text": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
-          "translation": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ"
-        }
-      ]
-    },
-    {
-      "number": 2,
-      "name": "Al-Baqarah",
-      "verses": [
-        {
-          "text": "Alif, Lam, Meem.",
-          "translation": "الٓمٓ"
-        },
-        {
-          "text": "This is the Book about which there is no doubt, a guidance for those conscious of Allah -",
-          "translation": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ"
-        },
-        {
-          "text": "Who believe in the unseen, establish prayer, and spend out of what We have provided for them,",
-          "translation": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْ
+	"surahs": [{
+		"number": 1,
+		"name": "Al-Fatiha",
+		"englishName": "The Opening",
+		"englishNameTranslation": "The Opening",
+		"revelationType": "Meccan",
+		"verses": [{
+				"number": 1,
+				"text": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+				"translation": "In the name of Allah, the Most Gracious, the Most Merciful."
+			},
+			{
+				"number": 2,
+				"text": "[All] praise is [due] to Allah, Lord of the worlds -",
+				"translation": "[All] praise is [due] to Allah, Lord of the worlds -"
+			},
+			{
+				"number": 3,
+				"text": "The Entirely Merciful, the Especially Merciful,",
+				"translation": "The Most Gracious, the Most Merciful,"
+			},
+			{
+				"number": 4,
+				"text": "Sovereign of the Day of Recompense.",
+				"translation": "Master of the Day of Judgment."
+			},
+			{
+				"number": 5,
+				"text": "It is You we worship and You we ask for help.",
+				"translation": "You alone we worship, and You alone we ask for help."
+			},
+			{
+				"number": 6,
+				"text": "Guide us to the straight path -",
+				"translation": "Guide us to the straight path,"
+			},
+			{
+				"number": 7,
+				"text": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
+				"translation": "the path of those whom You have favored, not of those who have earned [Your] anger, nor of those who go astray."
+			}
+		]
+	}]
+}
