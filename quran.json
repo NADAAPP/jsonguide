@@ -1,45 +1,73 @@
 {
 	"surahs": [{
-		"number": 1,
-		"name": "Al-Fatiha",
-		"englishName": "The Opening",
-		"englishNameTranslation": "The Opening",
-		"revelationType": "Meccan",
-		"verses": [{
-				"number": 1,
-				"text": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
-				"translation": "In the name of Allah, the Most Gracious, the Most Merciful."
-			},
-			{
-				"number": 2,
-				"text": "[All] praise is [due] to Allah, Lord of the worlds -",
-				"translation": "[All] praise is [due] to Allah, Lord of the worlds -"
-			},
-			{
-				"number": 3,
-				"text": "The Entirely Merciful, the Especially Merciful,",
-				"translation": "The Most Gracious, the Most Merciful,"
-			},
-			{
-				"number": 4,
-				"text": "Sovereign of the Day of Recompense.",
-				"translation": "Master of the Day of Judgment."
-			},
-			{
-				"number": 5,
-				"text": "It is You we worship and You we ask for help.",
-				"translation": "You alone we worship, and You alone we ask for help."
-			},
-			{
-				"number": 6,
-				"text": "Guide us to the straight path -",
-				"translation": "Guide us to the straight path,"
-			},
-			{
-				"number": 7,
-				"text": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
-				"translation": "the path of those whom You have favored, not of those who have earned [Your] anger, nor of those who go astray."
-			}
-		]
-	}]
+			"number": 1,
+			"name": "Al-Fatiha",
+			"verses": [{
+					"number": 1,
+					"text": "In the name of Allah, the Most Gracious, the Most Merciful.",
+					"translation": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ"
+				},
+				{
+					"number": 2,
+					"text": "All praise is due to Allah, Lord of the Worlds.",
+					"translation": "الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ"
+				},
+				{
+					"number": 3,
+					"text": "The Most Gracious, the Most Merciful.",
+					"translation": "الرَّحْمَـٰنِ الرَّحِيمِ"
+				},
+				{
+					"number": 4,
+					"text": "Master of the Day of Judgment.",
+					"translation": "مَالِكِ يَوْمِ الدِّينِ"
+				},
+				{
+					"number": 5,
+					"text": "You alone we worship, and You alone we ask for help.",
+					"translation": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"
+				},
+				{
+					"number": 6,
+					"text": "Guide us to the straight path.",
+					"translation": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ"
+				},
+				{
+					"number": 7,
+					"text": "The path of those whom You have favored; not of those who earn Your anger, nor of those who go astray.",
+					"translation": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلاَ الضَّالِّينَ"
+				}
+			]
+		},
+		{
+			"number": 2,
+			"name": "Al-Baqarah",
+			"verses": [{
+					"number": 1,
+					"text": "This is the Book about which there is no doubt, a guidance for those conscious of Allah.",
+					"translation": "الم"
+				},
+				   {
+					"number": 2,
+					"text": "Who believe in the unseen, establish prayer, and spend out of what We have provided for them,",
+					"translation": "ذَلِكَ الْكِتَابُ لاَ رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ
+				},
+					   {
+					"number": 3,
+					"text": "And who believe in what has been revealed to you, [O Muhammad], and what was revealed before you, and of the Hereafter they are certain [in faith].",
+					"translation": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلاَةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ"
+				},
+				{
+					"number": 4,
+					"text": "Those are upon guidance from their Lord, and it is those who are the successful.",
+					"translation": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالآخِرَةِ هُمْ يُوقِنُونَ"
+				},
+				{
+					"number": 5,
+					"text": "Indeed, those who disbelieve - it is all the same for them whether you warn them or do not warn them - they will not believe.",
+					"translation": "أُوْلَـئِكَ عَلَى هُدًى مِّنْ رَّبِّهِمْ وَأُوْلَـئِكَ هُمُ الْمُفْلِحُونَ"
+				}
+			]
+		}
+	]
 }
