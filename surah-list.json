@@ -1,0 +1,27 @@
+{
+	"surahs": [{
+			"number": 1,
+			"name": "Al-Fatiha",
+			"englishName": "The Opening",
+			"englishNameTranslation": "The Opening",
+			"numberOfAyahs": 7,
+			"revelationType": "Meccan"
+		},
+		{
+			"number": 2,
+			"name": "Al-Baqarah",
+			"englishName": "The Cow",
+			"englishNameTranslation": "The Cow",
+			"numberOfAyahs": 286,
+			"revelationType": "Medinan"
+		},
+		{
+			"number": 3,
+			"name": "Al-Imran",
+			"englishName": "The Family of Imran",
+			"englishNameTranslation": "The Family of Imran",
+			"numberOfAyahs": 200,
+			"revelationType": "Medinan"
+		}
+	]
+}
